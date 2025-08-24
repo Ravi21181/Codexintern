@@ -1,6 +1,6 @@
 # Frontend-CodeXintern
 
-This repository contains my submissions for the **Frontend Internship Tasks** provided by Codexintern. It features three hands-on assignments built with React, Tailwind CSS, and React Router, demonstrating core frontend development concepts and skills. [Live](https://Ravi21181.github.io/Codexintern/#/)
+This repository contains my submissions for the **Frontend Internship Tasks** provided by Codexintern. It features three hands-on assignments built with React, Tailwind CSS, and React Router, demonstrating core frontend development concepts and skills. [Live](https://Ravi21181.github.io/Frontend-CodeXintern/#/)
 
 ## 🚩 About the Project
 
