@@ -61,7 +61,10 @@ function Translator() {
               <select name="language" class="rounded-md px-4 py-2 bg-white/60 text-gray-800 border border-gray-300 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-300" onChange={captureOption}>
                 <option value="hi">Hindi</option>
                 <option value="es">Spanish</option>
-                <option value="bn">Bengali</option>
+                <option value="fr">French</option>
+                <option value="ko">Korean</option>
+                <option value="zh">Chinese</option>
+                <option value="ja">Japanese</option>
               </select>
             </div>
             <button type="submit" class="bg-gradient-to-r from-blue-500 to-blue-700 hover:from-blue-600 hover:to-blue-800 text-white font-bold py-3 px-6 rounded-full shadow-lg transform transition-all duration-500 ease-in-out hover:scale-110 hover:brightness-110 hover:animate-pulse active:animate-bounce" onClick={ConvertText}>Convert</button>
